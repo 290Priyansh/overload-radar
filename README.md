@@ -46,6 +46,7 @@ A weekly intelligence report is delivered to Slack with a direct link to the Tab
 - Integration with calendar and project tools for richer workload signals
 - Privacy-preserving aggregation for individual risk insights
 
- ## Dashboard Link
+ ## Links
 
 - **Live Tableau Dashboard:** https://public.tableau.com/views/Burnout_Dasboard/OrganizationDrill-Down?:showVizHome=no
+-  **Live Demo:** [https://public.tableau.com/views/Burnout_Dasboard/OrganizationDrill-Down?:showVizHome=no](https://www.youtube.com/watch?v=vKLeNeKSqm4)
