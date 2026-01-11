@@ -1,0 +1,166 @@
+Employee_ID,Name,Department,Sub_Team,Total_Weekly_Hours,Overtime_Hours,Projects_Completed,Avg_Days_Early,Value_Score
+EMP1050,William Moore,Engineering,Backend,43,3,2,0.7,29.5
+EMP4215,Jennifer Miller,Engineering,Backend,40,3,4,4.4,62
+EMP7489,Sarah Jackson,Engineering,Backend,55,15,3,2.8,74
+EMP1648,Linda Brown,Engineering,Backend,40,0,1,4,30
+EMP3186,Mary Robinson,Engineering,Backend,53,13,5,4,96
+EMP6117,James Taylor,Engineering,Backend,40,0,4,-2.9,25.5
+EMP1857,Elizabeth Garcia,Engineering,Backend,40,0,3,-0.4,28
+EMP7518,Michael Taylor,Engineering,Backend,40,0,3,1.8,39
+EMP5077,Patricia Jones,Engineering,Frontend,43,3,7,0.8,80
+EMP7333,Thomas Taylor,Engineering,Frontend,48,8,6,1.2,82
+EMP7805,David Jackson,Engineering,Frontend,44,4,7,4.9,102.5
+EMP5586,Patricia Wilson,Engineering,Frontend,40,0,7,-0.7,66.5
+EMP5543,Elizabeth Johnson,Engineering,Frontend,40,0,9,-1.4,83
+EMP3493,Jessica Davis,Engineering,Frontend,40,0,1,2.2,21
+EMP5684,Richard Williams,Engineering,Frontend,49,9,9,-0.5,105.5
+EMP1541,Karen Harris,Engineering,DevOps,40,0,1,-1.3,3.5
+EMP1266,Jessica Jackson,Engineering,DevOps,40,0,4,-0.4,38
+EMP5645,Thomas Jones,Engineering,DevOps,40,0,2,0,20
+EMP7421,Patricia Smith,Engineering,DevOps,44,4,7,1.7,86.5
+EMP6328,Charles Miller,Engineering,DevOps,69,29,6,3.4,135
+EMP8008,James Garcia,Engineering,DevOps,40,0,7,-1.8,61
+EMP6794,Elizabeth Martinez,Engineering,DevOps,41,1,8,-2.7,68.5
+EMP1812,William Taylor,Engineering,DevOps,50,10,5,4.2,91
+EMP6949,Mary Garcia,Engineering,DevOps,40,0,7,-1.1,64.5
+EMP1979,Linda Taylor,Engineering,DevOps,40,0,6,1.2,66
+EMP8950,Joseph Jones,Engineering,QA,53,13,4,2.2,77
+EMP5524,Elizabeth White,Engineering,QA,41,1,7,4.8,96
+EMP7021,Sarah Brown,Engineering,QA,45,5,9,-0.8,96
+EMP7614,John Martinez,Engineering,QA,56,16,2,-0.8,48
+EMP1903,Elizabeth Taylor,Engineering,QA,40,0,5,1.9,59.5
+EMP5320,Joseph Garcia,Engineering,QA,40,0,7,-0.9,65.5
+EMP8226,Joseph Wilson,Engineering,QA,40,0,3,0.5,32.5
+EMP5546,Richard Davis,Engineering,Data Science,57,17,8,0.5,116.5
+EMP1696,James Johnson,Engineering,Data Science,48,8,10,1.9,125.5
+EMP7019,John Moore,Engineering,Data Science,40,0,6,1.5,67.5
+EMP4790,Karen Davis,Engineering,Data Science,60,20,3,-1.7,61.5
+EMP4391,Sarah Brown,Engineering,Data Science,44,4,7,-0.6,75
+EMP8560,Michael White,Engineering,Data Science,40,0,5,1.7,58.5
+EMP5888,Mary Thompson,Engineering,Data Science,40,0,9,1.6,98
+EMP8768,Sarah Garcia,HR,Recruiting,40,0,10,-0.4,98
+EMP2842,Patricia Jones,HR,Recruiting,58,18,9,3.2,142
+EMP8644,Richard Taylor,HR,Recruiting,40,0,5,-0.9,45.5
+EMP8407,Jennifer Thomas,HR,Recruiting,52,12,3,2.3,65.5
+EMP3045,Thomas Anderson,HR,Recruiting,48,8,9,3.4,123
+EMP6315,Linda Brown,HR,Recruiting,43,3,10,-0.5,103.5
+EMP6062,Jennifer Martinez,HR,Recruiting,40,0,5,-1.4,43
+EMP9128,Barbara Jackson,HR,Recruiting,61,21,6,1.6,110
+EMP2683,Robert Martinez,HR,Recruiting,41,1,4,-0.2,41
+EMP8678,Charles Thomas,HR,Recruiting,65,25,5,1.5,107.5
+EMP9937,Thomas Thompson,HR,Employee Relations,47,7,6,-0.4,72
+EMP6734,Elizabeth Johnson,HR,Employee Relations,40,0,2,0.2,21
+EMP1905,Barbara Anderson,HR,Employee Relations,52,12,3,0.6,57
+EMP2979,Michael Anderson,HR,Employee Relations,40,0,1,0.8,14
+EMP7620,David Moore,HR,Employee Relations,40,0,4,-1.1,34.5
+EMP4082,Thomas Davis,HR,Employee Relations,54,14,1,2.8,52
+EMP6766,Jennifer Robinson,HR,Employee Relations,48,8,6,1.6,84
+EMP3223,Elizabeth Jackson,HR,Employee Relations,46,6,7,0.2,83
+EMP9621,Richard Miller,HR,Employee Relations,40,0,5,1,55
+EMP7829,Susan White,HR,Employee Relations,40,0,5,1.5,57.5
+EMP2612,Michael Thompson,HR,Employee Relations,49,9,3,1.5,55.5
+EMP2557,Karen Thomas,HR,Employee Relations,49,9,6,0.6,81
+EMP1740,Jennifer Martinez,HR,Employee Relations,52,12,10,3.8,143
+EMP6529,Linda Thompson,HR,Employee Relations,48,8,4,-2.2,45
+EMP7279,Barbara Martinez,HR,Payroll,64,24,3,4.3,99.5
+EMP5241,William Wilson,HR,Payroll,42,2,3,-0.4,32
+EMP5089,Robert Smith,HR,Payroll,40,0,3,-1.1,24.5
+EMP5104,Patricia Moore,HR,Payroll,40,0,4,1.4,47
+EMP9900,Susan Moore,HR,Payroll,59,19,10,1.5,145.5
+EMP4639,John Jones,HR,Payroll,61,21,1,-2.3,40.5
+EMP1609,William Garcia,HR,Payroll,47,7,4,-0.4,52
+EMP2089,Richard Garcia,Sales,Enterprise,40,0,9,1.2,96
+EMP4332,Jessica Johnson,Sales,Enterprise,47,7,1,1.7,32.5
+EMP3745,Mary Thompson,Sales,Enterprise,41,1,2,0.6,25
+EMP3196,David Taylor,Sales,Enterprise,49,9,3,2.5,60.5
+EMP1545,David Taylor,Sales,Enterprise,60,20,5,1.1,95.5
+EMP2651,David Williams,Sales,Enterprise,48,8,4,-2.1,45.5
+EMP1756,Patricia Thomas,Sales,Enterprise,43,3,10,-1.3,99.5
+EMP4424,Charles Taylor,Sales,Enterprise,53,13,2,1,51
+EMP4174,William Jones,Sales,Enterprise,40,0,5,2.6,63
+EMP1968,Charles Johnson,Sales,Enterprise,41,1,4,4,62
+EMP4308,Jessica Davis,Sales,Enterprise,53,13,9,1.5,123.5
+EMP6479,Susan Taylor,Sales,Enterprise,44,4,9,0.6,101
+EMP6789,Robert Garcia,Sales,Enterprise,40,0,5,-0.1,49.5
+EMP9841,Jessica Harris,Sales,Enterprise,52,12,9,-0.1,113.5
+EMP6818,Barbara Moore,Sales,SMB,40,0,2,0.6,23
+EMP7301,Linda Anderson,Sales,SMB,40,0,3,0.4,32
+EMP1308,James Johnson,Sales,SMB,53,13,10,-0.3,124.5
+EMP9228,David Jones,Sales,SMB,42,2,9,0.2,95
+EMP6737,William White,Sales,SMB,40,0,4,0.4,42
+EMP1879,Linda Smith,Sales,SMB,40,0,6,-0.9,55.5
+EMP1541,Michael Smith,Sales,SMB,50,10,3,3.5,67.5
+EMP4762,Jennifer Wilson,Sales,SMB,57,17,9,5.8,153
+EMP9941,Susan Smith,Sales,Business Development,41,1,2,1.2,28
+EMP4382,Michael Martinez,Sales,Business Development,43,3,6,1,71
+EMP1634,Robert Wilson,Sales,Business Development,40,0,6,-1,55
+EMP7637,Joseph Davis,Sales,Business Development,58,18,1,0.1,46.5
+EMP6803,Mary Garcia,Sales,Business Development,40,0,1,2.1,20.5
+EMP5717,Patricia Jones,Sales,Business Development,45,5,10,1.2,116
+EMP7397,Jennifer Williams,Sales,Business Development,40,0,3,-1.4,23
+EMP6146,James Davis,Sales,Business Development,55,15,3,0.7,63.5
+EMP1812,James Thompson,Sales,Business Development,40,0,4,1.1,45.5
+EMP9971,Sarah Martin,Sales,Business Development,49,9,4,0.8,62
+EMP1066,Richard Davis,Sales,Business Development,50,10,10,1.6,128
+EMP8733,Charles Garcia,Sales,Business Development,45,5,7,-3.6,62
+EMP7658,Michael Johnson,Sales,Business Development,45,5,8,-1.1,84.5
+EMP1854,Jennifer Thompson,Marketing,Content,46,6,10,2.7,125.5
+EMP2425,Jessica Anderson,Marketing,Content,53,13,2,0.3,47.5
+EMP9108,Robert Jones,Marketing,Content,58,18,5,3.1,101.5
+EMP7796,Robert Wilson,Marketing,Content,51,11,4,1.1,67.5
+EMP1376,Joseph Martin,Marketing,Content,75,35,4,1.4,117
+EMP2465,Michael Anderson,Marketing,Content,43,3,2,-1.9,16.5
+EMP3379,David Moore,Marketing,Content,49,9,9,2.5,120.5
+EMP5295,Linda Miller,Marketing,Content,46,6,9,-0.9,97.5
+EMP4068,Karen Taylor,Marketing,Content,40,0,2,-0.1,19.5
+EMP9698,David Jackson,Marketing,Content,49,9,7,1.5,95.5
+EMP4740,Michael Garcia,Marketing,SEO,40,0,10,-0.9,95.5
+EMP4534,Jessica Miller,Marketing,SEO,46,6,2,4.7,55.5
+EMP8425,David Wilson,Marketing,SEO,41,1,10,3.5,119.5
+EMP8838,Jennifer Jones,Marketing,SEO,48,8,7,0.8,90
+EMP3883,Richard Harris,Marketing,SEO,48,8,2,4.6,59
+EMP6529,Linda Smith,Marketing,SEO,41,1,10,1.1,107.5
+EMP7550,Susan Williams,Marketing,SEO,48,8,10,2.2,127
+EMP9419,Sarah White,Marketing,SEO,60,20,10,4.4,162
+EMP9768,Joseph Davis,Marketing,SEO,48,8,2,-0.4,34
+EMP9934,Thomas Taylor,Marketing,SEO,59,19,4,2.3,89.5
+EMP4545,Sarah Taylor,Marketing,Social Media,47,7,5,5.7,92.5
+EMP7995,Michael Garcia,Marketing,Social Media,40,0,4,-3,25
+EMP1019,Linda Taylor,Marketing,Social Media,40,0,4,3,55
+EMP6020,Jennifer Smith,Marketing,Social Media,61,21,9,-0.3,130.5
+EMP2436,Thomas Anderson,Marketing,Social Media,47,7,3,3.3,60.5
+EMP4601,Joseph Wilson,Marketing,Product Marketing,40,0,1,2,20
+EMP8430,Elizabeth Taylor,Marketing,Product Marketing,48,8,8,1.6,104
+EMP4192,Joseph Davis,Marketing,Product Marketing,40,0,5,-0.3,48.5
+EMP3094,James Garcia,Marketing,Product Marketing,42,2,6,0.8,68
+EMP3889,David Davis,Marketing,Product Marketing,40,0,6,1.9,69.5
+EMP3507,Michael Martin,Finance,Accounting,58,18,9,1.4,133
+EMP5237,David Taylor,Finance,Accounting,58,18,10,0,136
+EMP1398,Karen Anderson,Finance,Accounting,40,0,6,-4.2,39
+EMP5108,Linda Martinez,Finance,Accounting,40,0,3,-1.1,24.5
+EMP1438,Robert Brown,Finance,Accounting,41,1,7,5,97
+EMP7162,Thomas Jones,Finance,FP&A,44,4,5,0,58
+EMP9105,Jessica Thomas,Finance,FP&A,42,2,9,-2.7,80.5
+EMP8682,James Brown,Finance,FP&A,40,0,9,-0.3,88.5
+EMP2393,David Johnson,Finance,FP&A,40,0,5,-1.6,42
+EMP1321,Michael Thompson,Finance,FP&A,40,0,2,1.1,25.5
+EMP6238,Susan Garcia,Finance,FP&A,51,11,10,2.4,134
+EMP3626,Barbara Johnson,Finance,FP&A,67,27,4,-0.6,91
+EMP8720,James Jones,Finance,FP&A,44,4,3,-1.6,30
+EMP6184,Karen Johnson,Finance,FP&A,40,0,4,-1.4,33
+EMP3133,Richard Taylor,Finance,FP&A,48,8,10,-0.3,114.5
+EMP9035,Barbara Thomas,Finance,Tax,40,0,1,0.7,13.5
+EMP8119,Karen Harris,Finance,Tax,52,12,6,-0.9,79.5
+EMP7772,Thomas Miller,Finance,Tax,40,0,4,0,40
+EMP6673,Richard Miller,Finance,Tax,40,0,3,-4.5,7.5
+EMP7112,Patricia Wilson,Finance,Tax,43,3,7,3.4,93
+EMP6924,Michael Brown,Finance,Tax,47,7,9,-1.3,97.5
+EMP7352,James Johnson,Finance,Tax,40,0,7,0.2,71
+EMP7942,Karen Brown,Finance,Tax,44,4,9,-0.1,97.5
+EMP2331,Michael Smith,Finance,Tax,45,5,10,3,125
+EMP5329,William Harris,Finance,Tax,44,4,9,-2.1,87.5
+EMP3734,William Anderson,Finance,Tax,42,2,1,-0.4,12
+EMP1664,James Williams,Finance,Tax,40,0,9,3.4,107
+EMP6343,John Garcia,Finance,Tax,57,17,5,1.7,92.5
+EMP9415,Barbara Smith,Finance,Tax,40,0,8,1.2,86
+EMP5819,Barbara Smith,Finance,Tax,40,0,7,0.8,74
